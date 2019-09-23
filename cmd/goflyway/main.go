@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/coyove/goflyway/pkg/config"
-	"github.com/coyove/goflyway/pkg/logg"
-	"github.com/coyove/goflyway/pkg/lookup"
-	"github.com/coyove/goflyway/proxy"
+	"github.com/alphabetY/goflyway/pkg/config"
+	"github.com/alphabetY/goflyway/pkg/logg"
+	"github.com/alphabetY/goflyway/pkg/lookup"
+	"github.com/alphabetY/goflyway/proxy"
 
 	"flag"
 	"fmt"
