@@ -1,8 +1,8 @@
 package proxy
 
 import (
-	"github.com/coyove/goflyway/pkg/logg"
-	"github.com/coyove/goflyway/pkg/lru"
+	"github.com/alphabetY/goflyway/pkg/logg"
+	"github.com/alphabetY/goflyway/pkg/lru"
 
 	"net"
 	"net/http"
