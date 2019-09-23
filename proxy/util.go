@@ -1,10 +1,10 @@
 package proxy
 
 import (
-	"github.com/coyove/goflyway/pkg/bitsop"
-	"github.com/coyove/goflyway/pkg/logg"
-	"github.com/coyove/goflyway/pkg/lookup"
-	"github.com/coyove/goflyway/pkg/tlds"
+	"github.com/alphabetY/goflyway/pkg/bitsop"
+	"github.com/alphabetY/goflyway/pkg/logg"
+	"github.com/alphabetY/goflyway/pkg/lookup"
+	"github.com/alphabetY/goflyway/pkg/tlds"
 
 	"crypto/tls"
 	"encoding/base32"
