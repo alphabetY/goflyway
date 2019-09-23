@@ -1,9 +1,9 @@
 package proxy
 
 import (
-	"github.com/coyove/goflyway/pkg/logg"
-	"github.com/coyove/goflyway/pkg/lookup"
-	"github.com/coyove/goflyway/pkg/lru"
+	"github.com/alphabetY/goflyway/pkg/logg"
+	"github.com/alphabetY/goflyway/pkg/lookup"
+	"github.com/alphabetY/goflyway/pkg/lru"
 
 	"encoding/base64"
 	"encoding/binary"
