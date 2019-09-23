@@ -1,7 +1,7 @@
 package proxy
 
 import (
-	"github.com/coyove/goflyway/pkg/lru"
+	"github.com/alphabetY/goflyway/pkg/lru"
 
 	"fmt"
 	"net/http"
