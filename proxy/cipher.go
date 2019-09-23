@@ -1,8 +1,8 @@
 package proxy
 
 import (
-	"github.com/coyove/goflyway/pkg/counter"
-	"github.com/coyove/goflyway/pkg/logg"
+	"github.com/alphabetY/goflyway/pkg/counter"
+	"github.com/alphabetY/goflyway/pkg/logg"
 
 	"bytes"
 	"crypto/aes"
